@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 917c99ad9df9aee47ba2d111b4225667
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2536147660896455279
+    second: cushion|back.005|Take 001|Layer 001
+  - first:
+      74: 4042222159315576770
+    second: cushion|bottom-wood.002|Take 001|Layer 001
+  - first:
+      74: 2754483533464421386
+    second: cushion|Camera|Take 001|Layer 001
+  - first:
+      74: -1489513200407714915
+    second: cushion|Camera|Take 001|Layer 001.001
+  - first:
+      74: -8049495652203522002
+    second: cushion|Camera|Take 001|Layer 001.002
+  - first:
+      74: 824179249990838232
+    second: cushion|Directional Light|Take 001|Layer 001
+  - first:
+      74: -7721364791990488344
+    second: cushion|Directional Light|Take 001|Layer 001.001
+  - first:
+      74: -1073210665225307522
+    second: cushion|Directional Light|Take 001|Layer 001.002
+  - first:
+      74: -8624694985271618389
+    second: cushion|FAT_3_5mm_Stitch (1281)|Take 001|Layer 001
+  - first:
+      74: 678500515960546002
+    second: cushion|leather-bottom|Take 001|Layer 001
+  - first:
+      74: -4901035501353124667
+    second: cushion|leather-bottom|Take 001|Layer 001.001
+  - first:
+      74: 1710005209295901164
+    second: cushion|leather-bottom|Take 001|Layer 001.002
+  - first:
+      74: -8753323097430439848
+    second: cushion|Mesh (2)|Take 001|Layer 001
+  - first:
+      74: -28078845785704275
+    second: cushion|Mesh (2)|Take 001|Layer 001.001
+  - first:
+      74: -5139311776869393343
+    second: cushion|Mesh (2)|Take 001|Layer 001.002
+  - first:
+      74: -8344510388801955327
+    second: cushion|Mesh (2)|Take 001|Layer 001.003
+  - first:
+      74: -6109494701357812453
+    second: cushion|Mesh|Take 001|Layer 001
+  - first:
+      74: -8745431913319743930
+    second: cushion|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 5869841612739618751
+    second: cushion|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -3522633856188582149
+    second: cushion|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -3640513853973251316
+    second: cushion|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -6643464631202590190
+    second: cushion|relaxing-armchair-base|Take 001|Layer 001
+  - first:
+      74: 1185897693870365089
+    second: cushion|relaxing-armchair-base|Take 001|Layer 001.001
+  - first:
+      74: -3694283820042099600
+    second: cushion|Texture Group|Take 001|Layer 001
+  - first:
+      74: -3653456047953152308
+    second: cushion|Texture Group|Take 001|Layer 001.001
+  - first:
+      74: 5075712126721708735
+    second: cushion|Texture Group|Take 001|Layer 001.002
+  - first:
+      74: -942326555696000466
+    second: stitches-back|back.005|Take 001|Layer 001
+  - first:
+      74: -5215589061699276024
+    second: stitches-back|bottom-wood.002|Take 001|Layer 001
+  - first:
+      74: 9221080015710864952
+    second: stitches-back|Camera|Take 001|Layer 001
+  - first:
+      74: 969895773595919063
+    second: stitches-back|Camera|Take 001|Layer 001.001
+  - first:
+      74: -6246603417785688519
+    second: stitches-back|Camera|Take 001|Layer 001.002
+  - first:
+      74: 5983793459974597691
+    second: stitches-back|Directional Light|Take 001|Layer 001
+  - first:
+      74: 3326700096986738864
+    second: stitches-back|Directional Light|Take 001|Layer 001.001
+  - first:
+      74: 7340650086103228853
+    second: stitches-back|Directional Light|Take 001|Layer 001.002
+  - first:
+      74: -1154888424544975572
+    second: stitches-back|FAT_3_5mm_Stitch (1281)|Take 001|Layer 001
+  - first:
+      74: -8074806165696464251
+    second: stitches-back|leather-bottom|Take 001|Layer 001
+  - first:
+      74: -6831621016764774809
+    second: stitches-back|leather-bottom|Take 001|Layer 001.001
+  - first:
+      74: -462946383142442081
+    second: stitches-back|leather-bottom|Take 001|Layer 001.002
+  - first:
+      74: -6390402589867155468
+    second: stitches-back|Mesh (2)|Take 001|Layer 001
+  - first:
+      74: -3935441597275232687
+    second: stitches-back|Mesh (2)|Take 001|Layer 001.001
+  - first:
+      74: 8040301950235148711
+    second: stitches-back|Mesh (2)|Take 001|Layer 001.002
+  - first:
+      74: 6515225355176077768
+    second: stitches-back|Mesh (2)|Take 001|Layer 001.003
+  - first:
+      74: 7314479161623622085
+    second: stitches-back|Mesh|Take 001|Layer 001
+  - first:
+      74: -8514567477929264545
+    second: stitches-back|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -699439876520280284
+    second: stitches-back|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -4688025469533855405
+    second: stitches-back|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -8040724387500865542
+    second: stitches-back|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -440806239546970977
+    second: stitches-back|relaxing-armchair-base|Take 001|Layer 001
+  - first:
+      74: -6671566966035204610
+    second: stitches-back|relaxing-armchair-base|Take 001|Layer 001.001
+  - first:
+      74: -6732815249924577530
+    second: stitches-back|Texture Group|Take 001|Layer 001
+  - first:
+      74: -5237464623725558368
+    second: stitches-back|Texture Group|Take 001|Layer 001.001
+  - first:
+      74: -1432803441744615281
+    second: stitches-back|Texture Group|Take 001|Layer 001.002
+  - first:
+      74: -8184074589633513456
+    second: stitches-leather-bottom|back.005|Take 001|Layer 001
+  - first:
+      74: 7257902367315918912
+    second: stitches-leather-bottom|bottom-wood.002|Take 001|Layer 001
+  - first:
+      74: 6492228662424571747
+    second: stitches-leather-bottom|Camera|Take 001|Layer 001
+  - first:
+      74: -2234326275543475647
+    second: stitches-leather-bottom|Camera|Take 001|Layer 001.001
+  - first:
+      74: 3162313918300048038
+    second: stitches-leather-bottom|Camera|Take 001|Layer 001.002
+  - first:
+      74: 2705888816002592781
+    second: stitches-leather-bottom|Directional Light|Take 001|Layer 001
+  - first:
+      74: 3952390046709511793
+    second: stitches-leather-bottom|Directional Light|Take 001|Layer 001.001
+  - first:
+      74: -2566456606308940603
+    second: stitches-leather-bottom|Directional Light|Take 001|Layer 001.002
+  - first:
+      74: 2364285942773935912
+    second: stitches-leather-bottom|FAT_3_5mm_Stitch (1281)|Take 001|Layer 001
+  - first:
+      74: -5369064303297839509
+    second: stitches-leather-bottom|leather-bottom|Take 001|Layer 001
+  - first:
+      74: 2566196541025013203
+    second: stitches-leather-bottom|leather-bottom|Take 001|Layer 001.001
+  - first:
+      74: 3254640165198349916
+    second: stitches-leather-bottom|leather-bottom|Take 001|Layer 001.002
+  - first:
+      74: 2524710260593573065
+    second: stitches-leather-bottom|Mesh (2)|Take 001|Layer 001
+  - first:
+      74: 8793220842645768470
+    second: stitches-leather-bottom|Mesh (2)|Take 001|Layer 001.001
+  - first:
+      74: 6600160310925934916
+    second: stitches-leather-bottom|Mesh (2)|Take 001|Layer 001.002
+  - first:
+      74: 5340307202228975802
+    second: stitches-leather-bottom|Mesh (2)|Take 001|Layer 001.003
+  - first:
+      74: -1707656295118670984
+    second: stitches-leather-bottom|Mesh|Take 001|Layer 001
+  - first:
+      74: 206346688030931208
+    second: stitches-leather-bottom|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 3781104355105597203
+    second: stitches-leather-bottom|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 5773778500538196564
+    second: stitches-leather-bottom|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 3274078276234668451
+    second: stitches-leather-bottom|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -4670211901607312750
+    second: stitches-leather-bottom|relaxing-armchair-base|Take 001|Layer 001
+  - first:
+      74: -5307346234321178035
+    second: stitches-leather-bottom|relaxing-armchair-base|Take 001|Layer 001.001
+  - first:
+      74: -816012065593380940
+    second: stitches-leather-bottom|Texture Group|Take 001|Layer 001
+  - first:
+      74: 4197268690414811735
+    second: stitches-leather-bottom|Texture Group|Take 001|Layer 001.001
+  - first:
+      74: -4969418241979588825
+    second: stitches-leather-bottom|Texture Group|Take 001|Layer 001.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
